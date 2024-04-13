@@ -4,7 +4,10 @@
 
 ** How to install Vencord
 *** Linux
-- In Linux, run this command (if you aren't in bash, you should swith to bash): ~sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"~.
+- In Linux, run this command (if you aren't in bash, you should switch to bash):
+   #+BEGIN_SRC
+   sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"
+   #+END_SRC
 - Or you can use Vesktop ([[https://aur.archlinux.org/packages/vesktop-bin][AUR]]).
 *** Windows
 - Just download and run [[https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe][VencordInstaller.exe]] (or you can use [[https://github.com/Vencord/Installer/releases/latest/download/VencordInstallerCli.exe][VencordInstallerCli.exe]]).
