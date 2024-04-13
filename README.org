@@ -1,7 +1,49 @@
 * Vencord Collection
 
+- Best plugins for Vencord!
+
 ** How to install Vencord
-- coming soon. 
+*** Linux
+- In Linux, run this command (if you aren't in bash, you should swith to bash): ~sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"~.
+- Or you can use Vesktop ([[https://aur.archlinux.org/packages/vesktop-bin][AUR]]).
+*** Windows
+- Just download and run [[https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe][VencordInstaller.exe]] (or you can use [[https://github.com/Vencord/Installer/releases/latest/download/VencordInstallerCli.exe][VencordInstallerCli.exe]]).
+*** Web
+**** Chrome/Chromium
+- Just install [[https://chrome.google.com/webstore/detail/vencord-web/cbghhgpcnddeihccjmnadmkaejncjndb][Vencord Web]] extension.
+**** Safari
+- Sadly, Vencord doesn't support Safari. Just use another browser.
+**** Firefox (or another else Chromium or Safari)
+- First you should install [[https://www.tampermonkey.net/][Tampermonkey (RECOMMENDED)]] or [[https://violentmonkey.github.io/][Violentmonkey]].
+- And open [[https://raw.githubusercontent.com/Vencord/builds/main/Vencord.user.js][this]] website.
+- And click Install.
+- NOTE: Please note that due to Discord's content security policy, the CSS Editor, custom themes and plugins making use of external scripts will not work with the Userscript. ([[https://vencord.dev/download/][credit (in Browser tab)]])
 
 ** Plugin Collection
-- coming soon. 
+- AlwaysAnimate: Animates all Discord.
+- AlwaysTrust: Removes the annoying untrusted domain and suspicious file popup.
+- AnonymiseFileNames: Anonymise uploaded file names.
+- BetterGifPicker: Makes the gif picker open the favourite category by default.
+- BetterSettings: Improves Discord's Settings via multiple (toggleable) changes: makes opening settings much faster | removes the scuffed transition animation | organises the settings cog context menu into categories
+- BlurNSFW: Blur attachments in NSFW channels until hovered.
+- CallTimer: Adds a timer to voice channels/DMs.
+- ClientTheme: Revival of the old client theme experiment (The one that came before the sucky one that we actually got).
+- ColorSighted: Removes the colorblind-friendly icons from statuses, just like 2015-2017 Discord.
+- Decor: Custom avatar decorations!
+- EmoteCloner: Allows you to clone Emotes & Stickers to your own server (right click them)
+- Experiments: Enable Access to Experiments in Discord! *(must have)*
+- FakeNitro: Free Nitro features! *(must have)*
+- FavoriteEmojiFirst: Puts your favorite emoji first in the emoji autocomplete. *(must have)*
+- MemberCount: Shows the amount of online & total members in the server member list and tooltip.
+- NoF1: Disables F1 help bind.
+- NoRPC: Disables Discord's RPC server.
+- oneko: Try and see it. :)
+- OpenInApp: Open Spotify, Steam and Epic Games URLs in their respective apps instead of your browser.
+- OnePingPerDM: If unread messages are sent by a user in DMs multiple times, you'll only receive one audio ping. Read the messages to reset the limit.
+- Party mode 🎉: Allows you to use party mode cause the party never ends ✨.
+- RelationshipNotifier: Notifies you when a friend, group chat, or server removes you.
+- ShowHiddenChannels: Show channels that you do not have access to view. *(must have)*
+- ShowAllMessageButtons: Always show all message buttons no matter if you are holding the shift key or not.
+- SpotifyCrack: Free listen along, no auto-pausing in voice chat, and allows activity to continue playing when idling.
+- VolumeBooster: Allows you to set the user and stream volume above the default maximum. *(must have)*
+- Wikisearch: Searches Wikipedia for your requested query.
